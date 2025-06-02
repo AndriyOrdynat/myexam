@@ -22,4 +22,4 @@ print(mat)
 tmat = mat.T
 print(tmat)
 
-print(mat@tmat)
+print(mat@tmat) #або print(mat.dot(tmat))
